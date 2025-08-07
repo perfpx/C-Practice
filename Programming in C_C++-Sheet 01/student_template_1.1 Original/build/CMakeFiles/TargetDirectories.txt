@@ -1,0 +1,4 @@
+/Users/max/Desktop/Tübingen/C:C++ Kurs/2022/Programming in C_C++-Sheet 01/student_template_1.1/build/CMakeFiles/submission.dir
+/Users/max/Desktop/Tübingen/C:C++ Kurs/2022/Programming in C_C++-Sheet 01/student_template_1.1/build/CMakeFiles/estimate_function_root.dir
+/Users/max/Desktop/Tübingen/C:C++ Kurs/2022/Programming in C_C++-Sheet 01/student_template_1.1/build/CMakeFiles/edit_cache.dir
+/Users/max/Desktop/Tübingen/C:C++ Kurs/2022/Programming in C_C++-Sheet 01/student_template_1.1/build/CMakeFiles/rebuild_cache.dir

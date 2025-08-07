@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/max/Desktop/Tübingen/C:C++ Kurs/2022/Programming in C_C++-Sheet 01/student_template_1.1/build",
+  "command": "/usr/bin/clang++ -Dsubmission_EXPORTS -I\"/Users/max/Desktop/Tübingen/C:C++ Kurs/2022/Programming in C_C++-Sheet 01/student_template_1.1/submission\" -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fPIC -Wall -Wextra -Wshadow -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -o CMakeFiles/submission.dir/submission/estimate_function_root.cpp.o -c \"/Users/max/Desktop/Tübingen/C:C++ Kurs/2022/Programming in C_C++-Sheet 01/student_template_1.1/submission/estimate_function_root.cpp\"",
+  "file": "/Users/max/Desktop/Tübingen/C:C++ Kurs/2022/Programming in C_C++-Sheet 01/student_template_1.1/submission/estimate_function_root.cpp",
+  "output": "CMakeFiles/submission.dir/submission/estimate_function_root.cpp.o"
+},
+{
+  "directory": "/Users/max/Desktop/Tübingen/C:C++ Kurs/2022/Programming in C_C++-Sheet 01/student_template_1.1/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -Wshadow -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -o CMakeFiles/estimate_function_root.dir/main.cpp.o -c \"/Users/max/Desktop/Tübingen/C:C++ Kurs/2022/Programming in C_C++-Sheet 01/student_template_1.1/main.cpp\"",
+  "file": "/Users/max/Desktop/Tübingen/C:C++ Kurs/2022/Programming in C_C++-Sheet 01/student_template_1.1/main.cpp",
+  "output": "CMakeFiles/estimate_function_root.dir/main.cpp.o"
+}
+]
